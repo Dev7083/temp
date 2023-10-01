@@ -92,6 +92,8 @@ void deletebeginning()
         free(ptr);  
         printf("\nNode Deleted\n"); 
 } 
+
+// wrong might fix in next round
 void deletelast()  
 {  
      struct node *ptr;  
