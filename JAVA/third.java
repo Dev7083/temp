@@ -1,6 +1,6 @@
 class third {
 public class void main (){
 
-s
+System.out.println("");
 }
 }
